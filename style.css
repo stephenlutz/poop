@@ -41,7 +41,7 @@ html, body { height: 100%; margin: 0; overflow: hidden; }
 body {
 	display: grid;
 	place-items: center;
-	background: #22272e;
+	background: #011AFE;
 
 	&::before {
 		content: '';
