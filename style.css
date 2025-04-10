@@ -149,6 +149,8 @@ body {
 		background-position: center;
 		background-size: var(--S) var(--S);
 		background-color: var(--color1);
+
+		border-width: 0;
 		
 		animation: a var(--duration) ease-in-out infinite both;
 	}
